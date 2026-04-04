@@ -1,17 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="71" viewBox="0 0 920 71">
-  <style>
-    text { font-family: Consolas, "Courier New", monospace; font-size: 14px; dominant-baseline: text-before-edge; white-space: pre; }
-  </style>
-  <rect width="920" height="71" fill="#000000" />
-  <g transform="translate(10, 10)">
-    <text x="0" y="2" fill="#00cd00" textLength="900" lengthAdjust="spacingAndGlyphs">────────────────────────────────────────────────────────────────────────────────────────────────────</text>
-    <text x="0" y="19" fill="#00cd00" textLength="9" lengthAdjust="spacingAndGlyphs">│</text>
-    <text x="18" y="19" fill="#d7afff" textLength="18" lengthAdjust="spacingAndGlyphs">&gt; </text>
-    <text x="36" y="19" fill="#ffffff" textLength="54" lengthAdjust="spacingAndGlyphs">hello </text>
-    <rect x="90" y="17" width="9" height="17" fill="#ffffff" />
-    <text x="90" y="19" fill="#000000" textLength="9" lengthAdjust="spacingAndGlyphs">👍</text>
-    <text x="99" y="19" fill="#ffffff" textLength="54" lengthAdjust="spacingAndGlyphs"> world</text>
-    <text x="882" y="19" fill="#00cd00" textLength="9" lengthAdjust="spacingAndGlyphs">│</text>
-    <text x="0" y="36" fill="#00cd00" textLength="900" lengthAdjust="spacingAndGlyphs">────────────────────────────────────────────────────────────────────────────────────────────────────</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="71" viewBox="0 0 920 71"><style>text{font-family:Consolas,&quot;Courier New&quot;,monospace;font-size:14px;dominant-baseline:text-before-edge;white-space:pre}</style><rect width="920" height="71" fill="#000"/><g transform="translate(10, 10)"><text x="0" y="2" fill="#00cd00" lengthAdjust="spacingAndGlyphs" textLength="900">────────────────────────────────────────────────────────────────────────────────────────────────────</text><text x="0" y="19" fill="#00cd00" lengthAdjust="spacingAndGlyphs" textLength="9">│</text><text x="18" y="19" fill="#d7afff" lengthAdjust="spacingAndGlyphs" textLength="18">&gt;</text><text x="36" y="19" fill="#fff" lengthAdjust="spacingAndGlyphs" textLength="54">hello</text><rect width="9" height="17" x="90" y="17" fill="#fff"/><text x="90" y="19" fill="#000" lengthAdjust="spacingAndGlyphs" textLength="9">👍</text><text x="99" y="19" fill="#fff" lengthAdjust="spacingAndGlyphs" textLength="54">world</text><text x="882" y="19" fill="#00cd00" lengthAdjust="spacingAndGlyphs" textLength="9">│</text><text x="0" y="36" fill="#00cd00" lengthAdjust="spacingAndGlyphs" textLength="900">────────────────────────────────────────────────────────────────────────────────────────────────────</text></g></svg>
