@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="105" viewBox="0 0 920 105">
-  <style>
-    text { font-family: Consolas, "Courier New", monospace; font-size: 14px; dominant-baseline: text-before-edge; white-space: pre; }
-  </style>
-  <rect width="920" height="105" fill="#000000" />
-  <g transform="translate(10, 10)">
-    <text x="0" y="2" fill="#00cd00" textLength="900" lengthAdjust="spacingAndGlyphs">────────────────────────────────────────────────────────────────────────────────────────────────────</text>
-    <text x="9" y="19" fill="#d7afff" textLength="18" lengthAdjust="spacingAndGlyphs">&gt; </text>
-    <text x="27" y="19" fill="#ffffff" textLength="45" lengthAdjust="spacingAndGlyphs">hello</text>
-    <text x="27" y="53" fill="#ffffff" textLength="45" lengthAdjust="spacingAndGlyphs">world</text>
-    <rect x="72" y="51" width="9" height="17" fill="#ffffff" />
-    <text x="0" y="70" fill="#00cd00" textLength="900" lengthAdjust="spacingAndGlyphs">────────────────────────────────────────────────────────────────────────────────────────────────────</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="105" viewBox="0 0 920 105"><style>text{font-family:Consolas,&quot;Courier New&quot;,monospace;font-size:14px;dominant-baseline:text-before-edge;white-space:pre}</style><rect width="920" height="105" fill="#000"/><g transform="translate(10, 10)"><text x="0" y="2" fill="#00cd00" lengthAdjust="spacingAndGlyphs" textLength="900">────────────────────────────────────────────────────────────────────────────────────────────────────</text><text x="9" y="19" fill="#d7afff" lengthAdjust="spacingAndGlyphs" textLength="18">&gt;</text><text x="27" y="19" fill="#fff" lengthAdjust="spacingAndGlyphs" textLength="45">hello</text><text x="27" y="53" fill="#fff" lengthAdjust="spacingAndGlyphs" textLength="45">world</text><rect width="9" height="17" x="72" y="51" fill="#fff"/><text x="0" y="70" fill="#00cd00" lengthAdjust="spacingAndGlyphs" textLength="900">────────────────────────────────────────────────────────────────────────────────────────────────────</text></g></svg>
